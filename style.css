@@ -1,0 +1,16 @@
+:right{
+--drab-dark-brown: #514b23ff;
+--dark-moss-green: #656839ff;
+--sage: #cbc9adff;
+--ash-gray: #cbd0b9ff;
+--ash-gray-2: #bddbd0ff;
+}
+
+.bg-dark-moss-green{
+    background-color: #BDDB39;
+}
+
+.image-logo img{
+    width: 70px;
+    height: 70px;
+}
